@@ -1,1 +1,2 @@
 Hello this is great tool
+now this is for second commit
